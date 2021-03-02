@@ -1,2 +1,0 @@
-(this.webpackJsonpbrainer=this.webpackJsonpbrainer||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var r=t(1),c=t.n(r),i=t(3),s=t.n(i),o=(t(8),t(0));var d=function(){return Object(o.jsx)("div",{children:Object(o.jsx)("h1",{children:"Tujofdiosh"})})};s.a.render(Object(o.jsx)(c.a.StrictMode,{children:Object(o.jsx)(d,{})}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
-//# sourceMappingURL=main.90653e8d.chunk.js.map
